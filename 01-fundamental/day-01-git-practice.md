@@ -20,3 +20,7 @@ Created my first Git-tracked file.
 
 Git allows me to track changes in my project and
 GitHub allows me to store and share the repository online.
+
+## 📝 Experiment
+
+This file was modified after the first commit.
